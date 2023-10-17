@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b></b>
+
 
 <h2>Certifications</h2>
 
