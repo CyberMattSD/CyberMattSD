@@ -4,9 +4,8 @@
 Cybersecurity analyst, lifelong learner, and lab-builder focused on turning complex security problems into practical, repeatable solutions.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Building and documenting security labs and tooling to strengthen real-world problem solving across offensive security, detection, and infrastructure security.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
