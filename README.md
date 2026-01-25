@@ -56,7 +56,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
-
+- [Home Lab] https://github.com/CyberMattSD/Home-Lab
+      -Set up
+      -Nessus Vulnerability Project
 
 
 
