@@ -19,55 +19,30 @@ Building and documenting security labs and tooling to strengthen real-world prob
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## Security Stack
 
-### Network
-<a href="https://www.wireshark.org/" target="_blank">
+### Identity & Access
+<img src="https://img.shields.io/badge/-Entra%20ID-5C2D91?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-RBAC-5C2D91?&style=for-the-badge" />
+
+### Endpoint Security
+<img src="https://img.shields.io/badge/-Intune-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Defender%20for%20Endpoint-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+
+### Network Visibility
+<img src="https://img.shields.io/badge/-Meraki%20Dashboard-1679A7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Auvik-1679A7?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
-</a>
-<a href="https://nmap.org/" target="_blank">
-<img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge" />
-</a>
-<a href="https://www.auvik.com/" target="_blank">
-<img src="https://img.shields.io/badge/-Auvik-0077B6?&style=for-the-badge" />
-</a>
-<a href="https://dashboard.meraki.com/" target="_blank">
-<img src="https://img.shields.io/badge/-Meraki%20Dashboard-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-</a>
 
-
-### Endpoint
-<a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank">
-<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
-<a href="https://www.microsoft.com/en-us/microsoft-intune" target="_blank">
-<img src="https://img.shields.io/badge/-Microsoft%20Intune-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
-
-### SIEM / Detection
-<a href="https://learn.microsoft.com/en-us/azure/sentinel/" target="_blank">
+### Detection & SIEM
 <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-5C2D91?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
-<a href="https://www.splunk.com/" target="_blank">
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/-Splunk-5C2D91?&style=for-the-badge&logo=splunk&logoColor=white" />
 
-### Vulnerability Management
-<a href="https://www.tenable.com/products/nessus" target="_blank">
+### Vulnerability & Offensive Validation
 <img src="https://img.shields.io/badge/-Nessus-00ADEF?&style=for-the-badge" />
-</a>
-
-### Offensive / Red Team
-<a href="https://www.metasploit.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Metasploit-D73A49?&style=for-the-badge" />
-</a>
-<a href="https://www.bloodhoundenterprise.io/" target="_blank">
 <img src="https://img.shields.io/badge/-BloodHound-D73A49?&style=for-the-badge" />
-</a>
-<a href="https://github.com/fortra/impacket" target="_blank">
 <img src="https://img.shields.io/badge/-Impacket-D73A49?&style=for-the-badge" />
-</a>
-
 
 ## Certifications
 
@@ -102,6 +77,48 @@ Building and documenting security labs and tooling to strengthen real-world prob
 <a href="https://www.lpi.org/" target="_blank"><img src="https://img.shields.io/badge/-Linux%20Essentials-333333?&style=for-the-badge&logo=linux&logoColor=white" /></a>
 
 </div>
+
+## Cloud Security Operations Flow
+
+### 1️⃣ Identity & Access Governance (Zero Trust Foundation)
+Entra ID • RBAC • Conditional Access • MFA  
+→ Control access to Azure resources and enforce least privilege  
+
+↓
+
+### 2️⃣ Endpoint & Device Security
+Microsoft Intune • Defender for Endpoint  
+→ Enforce compliance, EDR telemetry, device health monitoring  
+
+↓
+
+### 3️⃣ Cloud Infrastructure & Network Layer
+Azure • NSGs • Key Vault • Meraki SD-WAN  
+→ Secure workloads, protect secrets, manage hybrid connectivity  
+
+↓
+
+### 4️⃣ Telemetry Ingestion & Detection Engineering
+Microsoft Sentinel • KQL • Log Analytics  
+→ Centralized logging, alert tuning, behavioral detection  
+
+↓
+
+### 5️⃣ Vulnerability & Configuration Management
+Nessus • Secure Score • Baseline policy enforcement  
+→ Identify misconfigurations and cloud exposure risks  
+
+↓
+
+### 6️⃣ Adversary Simulation & Control Validation
+Metasploit • BloodHound • Impacket • Multi-Cloud Cyber Range  
+→ Test privilege escalation paths, validate segmentation, simulate attack chains  
+
+↓
+
+### 7️⃣ Continuous Hardening & Improvement
+Policy refinement • RBAC tuning • Alert optimization • Patch cycles  
+→ Improve cloud security posture based on telemetry and testing
 
 
 
