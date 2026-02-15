@@ -61,8 +61,7 @@ Building and documenting security labs and tooling to strengthen real-world prob
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/LindyMarine/D1E1EDD1F286CBC8?sharingId=57638B66BF2646B8" target="_blank">
 <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
-
-<a href="https://learn.microsoft.com/en-us/users/lindymarine/transcript" target="_blank">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/LindyMarine/39F5ECA77EF93A18?sharingId=57638B66BF2646B8" target="_blank">
 <img src="https://img.shields.io/badge/-SC--200-5C2D91?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
 
