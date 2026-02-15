@@ -22,27 +22,54 @@ Building and documenting security labs and tooling to strengthen real-world prob
 ## Security Stack
 
 ### Identity & Access
+<a href="https://learn.microsoft.com/en-us/entra/identity/" target="_blank">
 <img src="https://img.shields.io/badge/-Entra%20ID-5C2D91?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+<a href="https://learn.microsoft.com/en-us/azure/role-based-access-control/overview" target="_blank">
 <img src="https://img.shields.io/badge/-RBAC-5C2D91?&style=for-the-badge" />
+</a>
 
 ### Endpoint Security
+<a href="https://www.microsoft.com/en-us/microsoft-intune" target="_blank">
 <img src="https://img.shields.io/badge/-Intune-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+<a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank">
 <img src="https://img.shields.io/badge/-Defender%20for%20Endpoint-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
 
 ### Network Visibility
+<a href="https://dashboard.meraki.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Meraki%20Dashboard-1679A7?&style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+<a href="https://www.auvik.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Auvik-1679A7?&style=for-the-badge" />
+</a>
+<a href="https://www.wireshark.org/" target="_blank">
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+</a>
 
 ### Detection & SIEM
+<a href="https://learn.microsoft.com/en-us/azure/sentinel/" target="_blank">
 <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-5C2D91?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+<a href="https://www.splunk.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Splunk-5C2D91?&style=for-the-badge&logo=splunk&logoColor=white" />
+</a>
 
 ### Vulnerability & Offensive Validation
+<a href="https://www.tenable.com/products/nessus" target="_blank">
 <img src="https://img.shields.io/badge/-Nessus-00ADEF?&style=for-the-badge" />
+</a>
+<a href="https://www.metasploit.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Metasploit-D73A49?&style=for-the-badge" />
+</a>
+<a href="https://bloodhoundenterprise.io/" target="_blank">
 <img src="https://img.shields.io/badge/-BloodHound-D73A49?&style=for-the-badge" />
+</a>
+<a href="https://github.com/fortra/impacket" target="_blank">
 <img src="https://img.shields.io/badge/-Impacket-D73A49?&style=for-the-badge" />
+</a>
+
 
 ## Certifications
 
