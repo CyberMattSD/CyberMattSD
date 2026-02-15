@@ -67,7 +67,7 @@ Building and documenting security labs and tooling to strengthen real-world prob
 </a>
 
 <a href="https://certifications.cyberwarfare.live/" target="_blank">
-<img src="https://img.shields.io/badge/-CRTP-222222?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-PNPT-222222?&style=for-the-badge" />
 </a>
 
 <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="_blank">
