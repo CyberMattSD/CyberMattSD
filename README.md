@@ -20,27 +20,54 @@ Building and documenting security labs and tooling to strengthen real-world prob
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+<a href="https://www.wireshark.org/" target="_blank">
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+</a>
+<a href="https://nmap.org/" target="_blank">
+<img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge" />
+</a>
+<a href="https://www.auvik.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Auvik-0077B6?&style=for-the-badge" />
+</a>
+<a href="https://dashboard.meraki.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Meraki%20Dashboard-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+
 
 ### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+<a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank">
+<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-intune" target="_blank">
+<img src="https://img.shields.io/badge/-Microsoft%20Intune-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### SIEM / Detection
+<a href="https://learn.microsoft.com/en-us/azure/sentinel/" target="_blank">
+<img src="https://img.shields.io/badge/-Microsoft%20Sentinel-5C2D91?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+<a href="https://www.splunk.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+</a>
+
+### Vulnerability Management
+<a href="https://www.tenable.com/products/nessus" target="_blank">
+<img src="https://img.shields.io/badge/-Nessus-00ADEF?&style=for-the-badge" />
+</a>
+
+### Offensive / Red Team
+<a href="https://www.metasploit.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Metasploit-D73A49?&style=for-the-badge" />
+</a>
+<a href="https://www.bloodhoundenterprise.io/" target="_blank">
+<img src="https://img.shields.io/badge/-BloodHound-D73A49?&style=for-the-badge" />
+</a>
+<a href="https://github.com/fortra/impacket" target="_blank">
+<img src="https://img.shields.io/badge/-Impacket-D73A49?&style=for-the-badge" />
+</a>
+
 
 ## Certifications
 
