@@ -58,7 +58,7 @@ Building and documenting security labs and tooling to strengthen real-world prob
 <!-- Cloud -->
 <a href="https://www.credly.com/badges/7fb3dc54-f6d3-425a-8c7b-9dd93cd0a973/public_url" target="_blank"><img src="https://img.shields.io/badge/-Cloud%2B-00AEEF?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/b4f0b7f3-8b08-42dc-bcf4-f4501f2329a9/public_url" target="_blank"><img src="https://img.shields.io/badge/-Multi--Cloud%20Cyber%20Range-00AEEF?&style=for-the-badge" /></a>
-<a href="https://learn.microsoft.com/en-us/users/lindymarine/transcript" target="_blank">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/LindyMarine/D1E1EDD1F286CBC8?sharingId=57638B66BF2646B8" target="_blank">
 <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 
