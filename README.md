@@ -47,7 +47,7 @@ Building and documenting security labs and tooling to strengthen real-world prob
 <div>
 
 <a href="https://www.credly.com/" target="_blank">
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
 <a href="https://www.credly.com/" target="_blank">
