@@ -66,9 +66,9 @@ Building and documenting security labs and tooling to strengthen real-world prob
 </a>
 
 <!-- Cloud -->
-[<a href="https://www.credly.com/badges/7fb3dc54-f6d3-425a-8c7b-9dd93cd0a973/public_url" target="_blank">
+<a href="https://www.credly.com/badges/7fb3dc54-f6d3-425a-8c7b-9dd93cd0a973/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-Cloud%2B-00AEEF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>](https://www.credly.com/badges/7fb3dc54-f6d3-425a-8c7b-9dd93cd0a973/public_url)
+</a>
 
 <a href="https://www.alteredsecurity.com/" target="_blank">
 <img src="https://img.shields.io/badge/-CRTA-000000?&style=for-the-badge" />
