@@ -43,14 +43,51 @@ Building and documenting security labs and tooling to strengthen real-world prob
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
+
+<a href="https://www.credly.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/" target="_blank">
+<img src="https://img.shields.io/badge/-CySA%2B-FF6600?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/" target="_blank">
+<img src="https://img.shields.io/badge/-PenTest%2B-8B0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Cloud%2B-00AEEF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+<a href="https://www.alteredsecurity.com/" target="_blank">
+<img src="https://img.shields.io/badge/-CRTA-000000?&style=for-the-badge" />
+</a>
+
+<a href="https://certifications.cyberwarfare.live/" target="_blank">
+<img src="https://img.shields.io/badge/-CRTP-222222?&style=for-the-badge" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="_blank">
+<img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/certifications/security-operations-analyst/" target="_blank">
+<img src="https://img.shields.io/badge/-SC--200-5C2D91?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
+<a href="https://www.lpi.org/" target="_blank">
+<img src="https://img.shields.io/badge/-Linux%20Essentials-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+</a>
+
+<a href="https://www.splunk.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Splunk%20Core%20Power%20User-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+</a>
+
 </div>
+
 
 ## Projects
 - Detection Lab
