@@ -1,7 +1,7 @@
 # Hello, I'm Matt!
 <a href="https://linkedin.com/in/matthew-hennigan-85813012"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity analyst, lifelong learner, and lab-builder focused on turning complex security problems into practical, repeatable solutions.
+Cloud Security Engineer, lifelong learner, and lab-builder focused on turning complex security problems into practical, repeatable solutions.
 
 ## Objective
 
