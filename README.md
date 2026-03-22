@@ -8,7 +8,6 @@ Cloud Security Engineer, lifelong learner, and lab-builder focused on turning co
 Building and documenting security labs and tooling to strengthen real-world problem solving across offensive security, detection, and infrastructure security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
