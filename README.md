@@ -19,6 +19,16 @@ Building and documenting security labs and tooling to strengthen real-world prob
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## 🔐 Security Labs & Write-Ups
+
+- [Security Labs Repository](https://github.com/CyberMattSD/security-labs)
+  - Hands-on HTB, OffSec, and TryHackMe write-ups
+  - Active Directory attack paths and privilege escalation
+  - Detection engineering and defensive insights
+
+### Featured
+- [Amaterasu (OffSec PG)](https://github.com/CyberMattSD/security-labs/tree/main/offsec/amaterasu)
+
 ## Security Stack
 
 ### Identity & Access
