@@ -26,7 +26,7 @@ Building and documenting security labs and tooling to strengthen real-world prob
   - Detection engineering and defensive insights
 
 ### Featured
-- [Amaterasu (OffSec PG)](https://github.com/CyberMattSD/security-labs/tree/main/offsec/amaterasu)
+- [Amaterasu (OffSec PG)](https://github.com/CyberMattSD/security-labs/tree/main/Offsec/Amaterasu)
 
 ## Security Stack
 
