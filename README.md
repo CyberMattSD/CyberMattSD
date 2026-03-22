@@ -161,6 +161,6 @@ Policy refinement • RBAC tuning • Alert optimization • Patch cycles
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- [Home Lab] https://github.com/CyberMattSD/Home-Lab
+- - [Home Lab](https://github.com/CyberMattSD/Home-Lab)
       -Set up
       -Nessus Vulnerability Project
