@@ -5,18 +5,31 @@ Cloud Security Engineer, lifelong learner, and lab-builder focused on turning co
 
 ## Objective
 
-Building and documenting security labs and tooling to strengthen real-world problem solving across offensive security, detection, and infrastructure security.
+Building and documenting offensive security labs focused on Active Directory, web application exploitation, privilege escalation, and post-exploitation techniques—leveraging a background in detection engineering to simulate real-world attack scenarios.
 
-## Skills
+## Offsensive Security Skills
+
+| Skill                                              | Associated Project         |
+|----------------------------------------------------|----------------------------|
+| Enumeration & Reconnaissance                       | [Recon & Enumeration Lab](#) |
+| Active Directory Enumeration & Attack Paths        | <a href="https://google.com">AD Attack Path Lab</a>|
+| Cloud (Azure) Attack Paths & Exploitation          | [Azure Offensive Lab](#) |
+| Privilege Escalation (Windows & Linux)             | <a href="https://google.com">Windows & Linux PrivEsc Lab</a>|
+| Web Application Exploitation (SQLi, XSS, LFI, RCE) | Web Application Exploitation Lab|
+| Post-Exploitation & Pivoting                       | Post-Exploitation & Pivoting Lab|
+| Credential Attacks                                 | Credential Attacks Lab|
+
+
+## Detection & Defensive Experience
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM (Microsoft Sentinel / KQL)               | <a href="https://google.com">Detection Engineering & Hunting Lab</a>|
+| Threat Detection & Hunting                    | <a href="https://google.com">Detection Engineering & Hunting Lab</a>|
+| Incident Response                             | SOC Automation Lab|
+| SOAR Automation                               | SOC Automation Lab|
+
+> Combining offensive tradecraft with detection engineering insight to emulate real-world adversary behavior and improve defensive visibility.
 
 ## 🔐 Security Labs & Write-Ups
 
