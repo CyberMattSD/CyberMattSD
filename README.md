@@ -29,7 +29,7 @@ Building and documenting offensive security labs focused on Active Directory, we
 | Incident Response                             | SOC Automation Lab|
 | SOAR Automation                               | SOC Automation Lab|
 
-> Combining offensive tradecraft with detection engineering insight to emulate real-world adversary behavior and improve defensive visibility.
+> **Combining offensive tradecraft with detection engineering insight to emulate real-world adversary behavior and improve defensive visibility.**
 
 ## 🔐 Security Labs & Write-Ups
 
