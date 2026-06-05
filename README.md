@@ -5,7 +5,7 @@ Cloud Security Engineer, lifelong learner, and lab-builder focused on turning co
 
 ## Objective
 
-Building and documenting offensive security labs focused on Active Directory, web application exploitation, privilege escalation, and post-exploitation techniques—leveraging a background in detection engineering to simulate real-world attack scenarios.
+Building and documenting offensive security labs focused on Active Directory and Azure environments, web application exploitation, privilege escalation, and post-exploitation techniques—leveraging a background in detection engineering to simulate real-world attack scenarios.
 
 ## Offsensive Security Skills
 
